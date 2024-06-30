@@ -2,4 +2,4 @@
 基本的なあw−くフローを学びます。
 　・git add
 　・git commit
-
+　・git status
