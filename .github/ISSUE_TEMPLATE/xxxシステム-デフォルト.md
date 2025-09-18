@@ -1,7 +1,7 @@
 ---
-name: XXXシステム デフォルト
+name: デフォルトIssueテンプレート
 about: システムのデフォルトテンプレート
-title: "[チケット番号]：[チケットタイトル]"
+title: "{[feature]|[bug]|[improvement]|[task]}"
 labels: ''
 assignees: ''
 
