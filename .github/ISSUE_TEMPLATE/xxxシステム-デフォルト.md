@@ -1,7 +1,7 @@
 ---
 name: デフォルトIssueテンプレート
 about: システムのデフォルトテンプレート
-title: "{[feature]|[bug]|[improvement]|[task]}"
+title: "[Feature]|[Bug]|[Improvement]|[Task]"
 labels: ''
 assignees: ''
 
